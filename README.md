@@ -1,2 +1,2 @@
 # trial1
-my first program in in git  
+my first trial program in in git  
